@@ -4,7 +4,7 @@ Welcome to my personal developer portfolio repository.
 This portfolio showcases my work, projects, skills, and experience in **Web Development and Artificial Intelligence / Machine Learning**.
 
 🔗 Live Portfolio  
-https://prithviraj-cyber.github.io/anand-portfolio/
+https://anand-chauhan.github.io/anand-portfolio/
 
 ---
 
