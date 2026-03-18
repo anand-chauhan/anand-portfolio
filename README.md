@@ -74,7 +74,7 @@ Some of the major projects included in this portfolio:
 
 Feel free to connect with me for collaboration, projects, or opportunities.
 
-- GitHub: https://github.com/Prithviraj-cyber  
+- GitHub: https://github.com/anand-chauhan  
 - LinkedIn: https://www.linkedin.com/in/ananddd  
 - Hugging Face: https://huggingface.co/anandsinghcyber  
 
