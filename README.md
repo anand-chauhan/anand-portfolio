@@ -1,5 +1,5 @@
 # 🌐 Anand Singh Chauhan - Developer Portfolio
-
+ 
 Welcome to my personal developer portfolio repository.  
 This portfolio showcases my work, projects, skills, and experience in **Web Development and Artificial Intelligence / Machine Learning**.
 
